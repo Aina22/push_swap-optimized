@@ -255,5 +255,3 @@ cat bench.txt
 - Disorder metric accurately predicts which strategy will use fewer operations
 - Provides best average performance across diverse inputs
 - Automatically adapts without user intervention
-
-**Disorder Calculation**: `main_utils.c
